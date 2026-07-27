@@ -23,3 +23,54 @@ body{
     padding:60px;
 
 }
+
+/* ===========================================
+   BUILDING WINDOW HEADER
+   =========================================== */
+
+.window-header{
+
+    margin-top:40px;
+    margin-bottom:120px;
+
+}
+
+.window-number{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    font-size:0.9rem;
+
+    letter-spacing:0.18em;
+
+    text-transform:uppercase;
+
+    color:#777;
+
+    margin-bottom:28px;
+
+}
+
+.window-title{
+
+    font-size:4rem;
+
+    font-weight:400;
+
+    line-height:1.1;
+
+    margin-bottom:32px;
+
+}
+
+.window-proposition{
+
+    max-width:700px;
+
+    font-size:1.35rem;
+
+    line-height:1.6;
+
+    color:#555;
+
+}
